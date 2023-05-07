@@ -1,6 +1,6 @@
 <p align="center"><a href="https://wac.tax"><img src="https://cdn.jsdelivr.net/gh/wactax/img/logo.svg"/></a></p><p align="center"><a href="https://github.com/wactax/wac.tax/blob/main/doc/README.md#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/2/g/wactax"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-# [xxAI.art](https://xxAI.art)
+* [വെബ്സൈറ്റ് ബഹുഭാഷാ ഡോക്യുമെന്റേഷൻ](https://github.com/xxai-doc)
 
 വെബ്‌സൈറ്റിന്റെ ഫ്രണ്ട്-എൻഡ് കോഡ് ഓപ്പൺ സോഴ്‌സ് ആണ്, വിവർത്തനം ഒപ്റ്റിമൈസ് ചെയ്യാൻ സഹായിക്കുന്നതിന് സ്വാഗതം
 
