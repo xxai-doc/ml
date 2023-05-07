@@ -7,3 +7,4 @@
 * [ഫ്രണ്ട്-എൻഡ് കോഡ്](https://github.com/xxai-art/web)
 * [സൈറ്റിന്റെ മൊത്തത്തിലുള്ള ഭാഷാ പായ്ക്കുകൾ](https://github.com/xxai-art/web/tree/main/i18n)
 * [ലോഗിൻ മൊഡ്യൂളുകൾക്കുള്ള ഭാഷാ പായ്ക്കുകൾ](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [വെബ്സൈറ്റ് ബഹുഭാഷാ ഡോക്യുമെന്റേഷൻ](https://github.com/xxai-doc)
